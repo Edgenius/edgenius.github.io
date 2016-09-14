@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2015-10-15
+img: kardnote.png
+alt: kardnote
+project-date: October 2014
+category: MacOS
+
+description: Our first macOS application in Mac OS App store. <a href="https://itunes.apple.com/us/app/textnut/id933104554?ls=1&mt=12">Free download here.</a>. Its support website is <a href="http://www.textnutwriter.com">http://www.textnutwriter.com</a>.
+
+
+---

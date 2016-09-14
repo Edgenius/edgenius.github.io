@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2015-10-15
+img: textnutios.png
+alt: textnutios
+project-date: October 2014
+category: MacOS
+
+description: Our first macOS application in Mac OS App store. <a href="https://itunes.apple.com/us/app/textnut/id933104554?ls=1&mt=12">Free download here.</a>. Its support website is <a href="http://www.textnutwriter.com">http://www.textnutwriter.com</a>.
+
+---
