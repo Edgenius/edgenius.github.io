@@ -2,8 +2,8 @@
 layout: default
 modal-id: 5
 date: 2015-10-15
-img: geniuswiki.png
-alt: geniuswiki
+img: kardnote.png
+alt: Kardnote
 project-date: October 2014
 category: MacOS
 
